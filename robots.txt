@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://havuot.github.io/VfZ/sitemap.VfZ.gz
